@@ -1,0 +1,27 @@
+body
+{
+	background-image: url('http://photojerome83.free.fr/photo/Noir%20et%20Blanc/plage.JPG');
+}
+.header
+{
+	background-color: #C8CED4;
+}
+.recherche
+{
+	
+	left: 762px;
+	top: 10px;
+	position: absolute;
+	color: black;
+	font-size: 16px;
+}
+.recherche:hover
+{
+	text-decoration: none;
+	font-size: 17px;
+}
+.info_profil
+{
+	border:solid 1px black;
+	padding: 100px;
+}
