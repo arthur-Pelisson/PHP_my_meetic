@@ -7,7 +7,7 @@ class user
 
 	function __construct()
 	{
-		$this->conn = new PDO("mysql:host=localhost; dbname=my_meetic", 'root', '30042436') ;
+		$this->conn = new PDO("mysql:host=localhost; dbname=my_meetic", 'root', 'mdp') ;
 	}
 
 	

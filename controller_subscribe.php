@@ -29,7 +29,7 @@ if (isset($_POST['nom']) && isset($_POST['prenom']) && isset($_POST['date_de_nai
 				echo "veuiller remplire touts les champ pour l'inscritpion";
 			}
 
-// var_dump($checkUserExists);
+
 
 
 

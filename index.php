@@ -11,8 +11,6 @@ else
 	include('user.php');
 	$profil = new user;
 	$user_info = $profil->getProfil($_SESSION['email']);
-	// var_dump($user_info[0]->nom);
-	
 }
 ?>
 <!DOCTYPE html>
